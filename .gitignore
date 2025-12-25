@@ -43,3 +43,9 @@ out/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+gradlew
+gradlew.bat
+data
+gradle
+src
+settings.gradle
